@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: f03ace156a1285e44bd44c0f68f2e874
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 671202558807365373
+    second: Mouse_Hover (1)_0
+  - first:
+      213: -5509323850002063563
+    second: Mouse_Hover (1)_1
+  - first:
+      213: -5816651279957588667
+    second: Mouse_Hover (1)_2
+  - first:
+      213: -6446755566342571716
+    second: Mouse_Hover (1)_3
+  - first:
+      213: -5299699889574111364
+    second: Mouse_Hover (1)_4
+  - first:
+      213: 3715095730106438824
+    second: Mouse_Hover (1)_5
+  - first:
+      213: 1092218214113534699
+    second: Mouse_Hover (1)_6
+  - first:
+      213: -2772116599956881630
+    second: Mouse_Hover (1)_7
+  - first:
+      213: 8139085728719843502
+    second: Mouse_Hover (1)_8
+  - first:
+      213: 9077980942241501668
+    second: Mouse_Hover (1)_9
+  - first:
+      213: 3227498265343574345
+    second: Mouse_Hover (1)_10
+  - first:
+      213: -6987406576011859901
+    second: Mouse_Hover (1)_11
+  - first:
+      213: -6369297260364145611
+    second: Mouse_Hover (1)_12
+  - first:
+      213: 2836388425798475229
+    second: Mouse_Hover (1)_13
+  - first:
+      213: -2707817745969299894
+    second: Mouse_Hover (1)_14
+  - first:
+      213: 1158627783737692746
+    second: Mouse_Hover (1)_15
+  - first:
+      213: 8463538336479438183
+    second: Mouse_Hover (1)_16
+  - first:
+      213: -473069261363667827
+    second: Mouse_Hover (1)_17
+  - first:
+      213: 3275115482327026966
+    second: Mouse_Hover (1)_18
+  - first:
+      213: -246146940204724367
+    second: Mouse_Hover (1)_19
+  - first:
+      213: -6055107872657340841
+    second: Mouse_Hover (1)_20
+  - first:
+      213: -438730167570692784
+    second: Mouse_Hover (1)_21
+  - first:
+      213: -2009586944176718273
+    second: Mouse_Hover (1)_22
+  - first:
+      213: -5206161130061711996
+    second: Mouse_Hover (1)_23
+  - first:
+      213: 17374044093301899
+    second: Mouse_Hover (1)_24
+  - first:
+      213: 3118348882628567747
+    second: Mouse_Hover (1)_25
+  - first:
+      213: -5400757215238697147
+    second: Mouse_Hover (1)_26
+  - first:
+      213: 6436256793412303848
+    second: Mouse_Hover (1)_27
+  - first:
+      213: -9146907570718389280
+    second: Mouse_Hover (1)_28
+  - first:
+      213: 4261704423450725345
+    second: Mouse_Hover (1)_29
+  - first:
+      213: 6720053333029533657
+    second: Mouse_Hover (1)_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mouse_Hover_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d533a6730ced4e8d302dcd10bee88
+      internalID: 1126263496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_Hover_Death_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a03e127e152c4f9d2d5a43701551c
+      internalID: 1918775006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_Hover_Death_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9fefc311d1fef46936a85dde534db0
+      internalID: 149341143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_Hover_Death_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e277df6f61e74487dcaa7d2c94a16
+      internalID: -1290538427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_Hover_Death_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fabef64ac1ee374f8bf36a75bc55b54
+      internalID: 2084150170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 03a06838062c8314798d99c9b6f9ac91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mouse_Hover_Death_0: 1126263496
+      Mouse_Hover_Death_1: 1918775006
+      Mouse_Hover_Death_2: 149341143
+      Mouse_Hover_Death_3: -1290538427
+      Mouse_Hover_Death_4: 2084150170
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

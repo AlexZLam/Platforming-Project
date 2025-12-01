@@ -1,0 +1,3522 @@
+fileFormatVersion: 2
+guid: fcfdc5804f2566c4aa0ee030d3ea1d30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7406600015601232146
+    second: CatsBlack16x16Tile 1_0
+  - first:
+      213: -1578270453461784270
+    second: CatsBlack16x16Tile 1_1
+  - first:
+      213: 7087603272445148909
+    second: CatsBlack16x16Tile 1_2
+  - first:
+      213: 3699052550875371999
+    second: CatsBlack16x16Tile 1_3
+  - first:
+      213: 9055413164399452586
+    second: CatsBlack16x16Tile 1_4
+  - first:
+      213: 8027735464676433680
+    second: CatsBlack16x16Tile 1_5
+  - first:
+      213: 5492190481839671577
+    second: CatsBlack16x16Tile 1_6
+  - first:
+      213: -8434530516752286615
+    second: CatsBlack16x16Tile 1_7
+  - first:
+      213: -8916213113509509860
+    second: CatsBlack16x16Tile 1_8
+  - first:
+      213: 4746048621273845564
+    second: CatsBlack16x16Tile 1_9
+  - first:
+      213: -3538783876781813687
+    second: CatsBlack16x16Tile 1_10
+  - first:
+      213: -8192825910700561675
+    second: CatsBlack16x16Tile 1_11
+  - first:
+      213: 3659937846469387010
+    second: CatsBlack16x16Tile 1_12
+  - first:
+      213: -537096723792640530
+    second: CatsBlack16x16Tile 1_13
+  - first:
+      213: 5440936181530338284
+    second: CatsBlack16x16Tile 1_14
+  - first:
+      213: -7977875116563405289
+    second: CatsBlack16x16Tile 1_15
+  - first:
+      213: -5776558548457105968
+    second: CatsBlack16x16Tile 1_16
+  - first:
+      213: -7364700384572822024
+    second: CatsBlack16x16Tile 1_17
+  - first:
+      213: 3443389797305610611
+    second: CatsBlack16x16Tile 1_18
+  - first:
+      213: -1997350097371831414
+    second: CatsBlack16x16Tile 1_19
+  - first:
+      213: -214752098417366724
+    second: CatsBlack16x16Tile 1_20
+  - first:
+      213: -4252660721525709532
+    second: CatsBlack16x16Tile 1_21
+  - first:
+      213: -1360850171800644299
+    second: CatsBlack16x16Tile 1_22
+  - first:
+      213: -8666763462558798962
+    second: CatsBlack16x16Tile 1_23
+  - first:
+      213: 6957369423509959583
+    second: CatsBlack16x16Tile 1_24
+  - first:
+      213: -7263195285909737126
+    second: CatsBlack16x16Tile 1_25
+  - first:
+      213: 982851100938952448
+    second: CatsBlack16x16Tile 1_26
+  - first:
+      213: -864788321462309848
+    second: CatsBlack16x16Tile 1_27
+  - first:
+      213: -8616684372828188106
+    second: CatsBlack16x16Tile 1_28
+  - first:
+      213: -3377529244121416198
+    second: CatsBlack16x16Tile 1_29
+  - first:
+      213: 1672996660927226936
+    second: CatsBlack16x16Tile 1_30
+  - first:
+      213: 6979182427182891988
+    second: CatsBlack16x16Tile 1_31
+  - first:
+      213: -1098965618624880289
+    second: CatsBlack16x16Tile 1_32
+  - first:
+      213: -4776655248676795048
+    second: CatsBlack16x16Tile 1_33
+  - first:
+      213: -6127132647387927780
+    second: CatsBlack16x16Tile 1_34
+  - first:
+      213: 3262190139716913121
+    second: CatsBlack16x16Tile 1_35
+  - first:
+      213: -1178046681346458166
+    second: CatsBlack16x16Tile 1_36
+  - first:
+      213: 934716809383560843
+    second: CatsBlack16x16Tile 1_37
+  - first:
+      213: 5392656529642392513
+    second: CatsBlack16x16Tile 1_38
+  - first:
+      213: 1536091484511801292
+    second: CatsBlack16x16Tile 1_39
+  - first:
+      213: 3223542746058386752
+    second: CatsBlack16x16Tile 1_40
+  - first:
+      213: 3444009285997503986
+    second: CatsBlack16x16Tile 1_41
+  - first:
+      213: -6756254924797371038
+    second: CatsBlack16x16Tile 1_42
+  - first:
+      213: 6905594982999262373
+    second: CatsBlack16x16Tile 1_43
+  - first:
+      213: 6858209980422284955
+    second: CatsBlack16x16Tile 1_44
+  - first:
+      213: -7279577216623271079
+    second: CatsBlack16x16Tile 1_45
+  - first:
+      213: 9207359220774445788
+    second: CatsBlack16x16Tile 1_46
+  - first:
+      213: -8649829817283582790
+    second: CatsBlack16x16Tile 1_47
+  - first:
+      213: -1220563153470922672
+    second: CatsBlack16x16Tile 1_48
+  - first:
+      213: 5360931826705562688
+    second: CatsBlack16x16Tile 1_49
+  - first:
+      213: -2085752353873462892
+    second: CatsBlack16x16Tile 1_50
+  - first:
+      213: -5248099242425368235
+    second: CatsBlack16x16Tile 1_51
+  - first:
+      213: 4744412893677348084
+    second: CatsBlack16x16Tile 1_52
+  - first:
+      213: 5809562800450466523
+    second: CatsBlack16x16Tile 1_53
+  - first:
+      213: 5002512332658685183
+    second: CatsBlack16x16Tile 1_54
+  - first:
+      213: -6591958906139317014
+    second: CatsBlack16x16Tile 1_55
+  - first:
+      213: 754373004260352985
+    second: CatsBlack16x16Tile 1_56
+  - first:
+      213: 2695555857043452404
+    second: CatsBlack16x16Tile 1_57
+  - first:
+      213: -7851424975120520184
+    second: CatsBlack16x16Tile 1_58
+  - first:
+      213: -6780780754033216920
+    second: CatsBlack16x16Tile 1_59
+  - first:
+      213: -3325899646924191945
+    second: CatsBlack16x16Tile 1_60
+  - first:
+      213: 5553002882417209585
+    second: CatsBlack16x16Tile 1_61
+  - first:
+      213: -3979028018280230787
+    second: CatsBlack16x16Tile 1_62
+  - first:
+      213: 6532545586777691638
+    second: CatsBlack16x16Tile 1_63
+  - first:
+      213: 5888816203962465509
+    second: CatsBlack16x16Tile 1_64
+  - first:
+      213: 5487195695103661770
+    second: CatsBlack16x16Tile 1_65
+  - first:
+      213: -3567215798880150578
+    second: CatsBlack16x16Tile 1_66
+  - first:
+      213: -1825960141820723309
+    second: CatsBlack16x16Tile 1_67
+  - first:
+      213: 5754574545084996842
+    second: CatsBlack16x16Tile 1_68
+  - first:
+      213: 8609725578211753196
+    second: CatsBlack16x16Tile 1_69
+  - first:
+      213: 2832066271482509886
+    second: CatsBlack16x16Tile 1_70
+  - first:
+      213: -3131836272669847980
+    second: CatsBlack16x16Tile 1_71
+  - first:
+      213: -5884193978884312084
+    second: CatsBlack16x16Tile 1_72
+  - first:
+      213: -9105513513374090457
+    second: CatsBlack16x16Tile 1_73
+  - first:
+      213: 5415628469336848242
+    second: CatsBlack16x16Tile 1_74
+  - first:
+      213: 3667526784279690620
+    second: CatsBlack16x16Tile 1_75
+  - first:
+      213: 1716972955343707582
+    second: CatsBlack16x16Tile 1_76
+  - first:
+      213: -562036977591470812
+    second: CatsBlack16x16Tile 1_77
+  - first:
+      213: 7292693534437347706
+    second: CatsBlack16x16Tile 1_78
+  - first:
+      213: -3780992736488759367
+    second: CatsBlack16x16Tile 1_79
+  - first:
+      213: 5747196003670151482
+    second: CatsBlack16x16Tile 1_80
+  - first:
+      213: 2650696539598393205
+    second: CatsBlack16x16Tile 1_81
+  - first:
+      213: -5794302324034992165
+    second: CatsBlack16x16Tile 1_82
+  - first:
+      213: -4921699010984112901
+    second: CatsBlack16x16Tile 1_83
+  - first:
+      213: 6142940189699242758
+    second: CatsBlack16x16Tile 1_84
+  - first:
+      213: -1047577452812557895
+    second: CatsBlack16x16Tile 1_85
+  - first:
+      213: -6129990766717919331
+    second: CatsBlack16x16Tile 1_86
+  - first:
+      213: -6969829214838582784
+    second: CatsBlack16x16Tile 1_87
+  - first:
+      213: 8912539425811259499
+    second: CatsBlack16x16Tile 1_88
+  - first:
+      213: 4673047887270154316
+    second: CatsBlack16x16Tile 1_89
+  - first:
+      213: 7468574949455791276
+    second: CatsBlack16x16Tile 1_90
+  - first:
+      213: -740059406414365391
+    second: CatsBlack16x16Tile 1_91
+  - first:
+      213: -4692764981505755436
+    second: CatsBlack16x16Tile 1_92
+  - first:
+      213: 4963172691204346640
+    second: CatsBlack16x16Tile 1_93
+  - first:
+      213: 7831292661501636490
+    second: CatsBlack16x16Tile 1_94
+  - first:
+      213: -4924160164485318378
+    second: CatsBlack16x16Tile 1_95
+  - first:
+      213: 5085872379416425484
+    second: CatsBlack16x16Tile 1_96
+  - first:
+      213: 1352038031398114537
+    second: CatsBlack16x16Tile 1_97
+  - first:
+      213: 1746171836779319402
+    second: CatsBlack16x16Tile 1_98
+  - first:
+      213: -6345120265532202056
+    second: CatsBlack16x16Tile 1_99
+  - first:
+      213: 2572588420460331811
+    second: CatsBlack16x16Tile 1_100
+  - first:
+      213: -2018466361535252849
+    second: CatsBlack16x16Tile 1_101
+  - first:
+      213: 314859834198906806
+    second: CatsBlack16x16Tile 1_102
+  - first:
+      213: 1976874799359356901
+    second: CatsBlack16x16Tile 1_103
+  - first:
+      213: -1594337060477411464
+    second: CatsBlack16x16Tile 1_104
+  - first:
+      213: -2273372511816873278
+    second: CatsBlack16x16Tile 1_105
+  - first:
+      213: 8867130039542654891
+    second: CatsBlack16x16Tile 1_106
+  - first:
+      213: 6790156608923262976
+    second: CatsBlack16x16Tile 1_107
+  - first:
+      213: -7847731444265016952
+    second: CatsBlack16x16Tile 1_108
+  - first:
+      213: -8025816282532202873
+    second: CatsBlack16x16Tile 1_109
+  - first:
+      213: -3086149621393269062
+    second: CatsBlack16x16Tile 1_110
+  - first:
+      213: 1215541344530821178
+    second: CatsBlack16x16Tile 1_111
+  - first:
+      213: -9018795206207084320
+    second: CatsBlack16x16Tile 1_112
+  - first:
+      213: 2173514221706474810
+    second: CatsBlack16x16Tile 1_113
+  - first:
+      213: 6707673414526982024
+    second: CatsBlack16x16Tile 1_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219605be87789c660800000000000000
+      internalID: 7406600015601232146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2396ae5726bd81ae0800000000000000
+      internalID: -1578270453461784270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee3df2ef993c5260800000000000000
+      internalID: 7087603272445148909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9dd6452bca55330800000000000000
+      internalID: 3699052550875371999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1ec6e9b4a4bad70800000000000000
+      internalID: 9055413164399452586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f18d25fde386f60800000000000000
+      internalID: 8027735464676433680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919c5d4f42e283c40800000000000000
+      internalID: 5492190481839671577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cb9cdde2782fa80800000000000000
+      internalID: -8434530516752286615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c150693d96f334480800000000000000
+      internalID: -8916213113509509860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f82cd431a5dd140800000000000000
+      internalID: 4746048621273845564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9405a8730d6b3eec0800000000000000
+      internalID: -3538783876781813687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa31edd3c3d4e80800000000000000
+      internalID: -8192825910700561675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203e0d68416bac230800000000000000
+      internalID: 3659937846469387010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee540581069db88f0800000000000000
+      internalID: -537096723792640530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3afa931a6128b40800000000000000
+      internalID: 5440936181530338284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7166fce99d4e84190800000000000000
+      internalID: -7977875116563405289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5d7fe0b9a85dfa0800000000000000
+      internalID: -5776558548457105968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdaa5425045bc990800000000000000
+      internalID: -7364700384572822024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371fa9bd6c069cf20800000000000000
+      internalID: 3443389797305610611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a836f0a3bacf744e0800000000000000
+      internalID: -1997350097371831414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c392013ba1c050df0800000000000000
+      internalID: -214752098417366724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4252437fa938bf4c0800000000000000
+      internalID: -4252660721525709532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5351b459af94d1de0800000000000000
+      internalID: -1360850171800644299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b29dd9c8879b780800000000000000
+      internalID: -8666763462558798962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b97301aa8d8060800000000000000
+      internalID: 6957369423509959583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51fe099e52f33b90800000000000000
+      internalID: -7263195285909737126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f51927ed9c3ad00800000000000000
+      internalID: 982851100938952448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c255d7a97aff3f0800000000000000
+      internalID: -864788321462309848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6329aef47336b6880800000000000000
+      internalID: -8616684372828188106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd36a12c0b9021d0800000000000000
+      internalID: -3377529244121416198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8346bf4699da73710800000000000000
+      internalID: 1672996660927226936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d382e2b0790bd060800000000000000
+      internalID: 6979182427182891988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f512f79a790bfb0f0800000000000000
+      internalID: -1098965618624880289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d4d10fb59e5bdb0800000000000000
+      internalID: -4776655248676795048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b6eb4f15d08faa0800000000000000
+      internalID: -6127132647387927780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7cb93f5a0a54d20800000000000000
+      internalID: 3262190139716913121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd348de8ccb6afe0800000000000000
+      internalID: -1178046681346458166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86c4ec5cf7c8fc00800000000000000
+      internalID: 934716809383560843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb860dca8096da40800000000000000
+      internalID: 5392656529642392513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf04dc011b415510800000000000000
+      internalID: 1536091484511801292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de8196c035cbc20800000000000000
+      internalID: 3223542746058386752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5270fc2349bcf20800000000000000
+      internalID: 3444009285997503986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d187b21f5fc32a0800000000000000
+      internalID: -6756254924797371038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a40464bc0a95df50800000000000000
+      internalID: 6905594982999262373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96eb1e04a14d2f50800000000000000
+      internalID: 6858209980422284955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953a420271fb9fa90800000000000000
+      internalID: -7279577216623271079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ada9bd6c17cf70800000000000000
+      internalID: 9207359220774445788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4ea352c91a5f780800000000000000
+      internalID: -8649829817283582790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0506f6b5740bf0fe0800000000000000
+      internalID: -1220563153470922672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cfedbc71bd56a40800000000000000
+      internalID: 5360931826705562688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499ffe1f84bed03e0800000000000000
+      internalID: -2085752353873462892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5514d3d6b810b27b0800000000000000
+      internalID: -5248099242425368235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4eb6bc36a87d140800000000000000
+      internalID: 4744412893677348084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd27c2d2696bf9050800000000000000
+      internalID: 5809562800450466523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4b1ac467e7c6540800000000000000
+      internalID: 5002512332658685183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aece791fc48a484a0800000000000000
+      internalID: -6591958906139317014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d325132042187a00800000000000000
+      internalID: 754373004260352985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17c4335c9886520800000000000000
+      internalID: 2695555857043452404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80caf4175922a0390800000000000000
+      internalID: -7851424975120520184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8627b0094d3d5e1a0800000000000000
+      internalID: -6780780754033216920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7378c7a74e708d1d0800000000000000
+      internalID: -3325899646924191945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0b23353ba301d40800000000000000
+      internalID: 5553002882417209585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7094136917a7c8c0800000000000000
+      internalID: -3979028018280230787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f51eeaa99348aa50800000000000000
+      internalID: 6532545586777691638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec3fb0232749b150800000000000000
+      internalID: 5888816203962465509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6d4bb896f662c40800000000000000
+      internalID: 5487195695103661770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb569e7124be7ec0800000000000000
+      internalID: -3567215798880150578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ff0c4ece2e8a6e0800000000000000
+      internalID: -1825960141820723309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecdb494f0b5cdf40800000000000000
+      internalID: 5754574545084996842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecf7ee0cc3eb7770800000000000000
+      internalID: 8609725578211753196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a741cd4458d4720800000000000000
+      internalID: 2832066271482509886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e84d0d08b7984d0800000000000000
+      internalID: -3131836272669847980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bb1380c4275ea0800000000000000
+      internalID: -5884193978884312084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b71d1e3b7b2a180800000000000000
+      internalID: -9105513513374090457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b05e466d282b40800000000000000
+      internalID: 5415628469336848242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db83dcd2ca5e230800000000000000
+      internalID: 3667526784279690620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd6345ec9e3d710800000000000000
+      internalID: 1716972955343707582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425b600c85e3338f0800000000000000
+      internalID: -562036977591470812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a711de7912ad43560800000000000000
+      internalID: 7292693534437347706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf51438327378bc0800000000000000
+      internalID: -3780992736488759367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31dd4db05422cf40800000000000000
+      internalID: 5747196003670151482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f8e12757a29c420800000000000000
+      internalID: 2650696539598393205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd78cae5cb0869fa0800000000000000
+      internalID: -5794302324034992165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc86e663dc92bbb0800000000000000
+      internalID: -4921699010984112901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b7e7b4e8b104550800000000000000
+      internalID: 6142940189699242758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b126626bd14671f0800000000000000
+      internalID: -1047577452812557895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f9a5130e5edeaa0800000000000000
+      internalID: -6129990766717919331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0021860c141364f90800000000000000
+      internalID: -6969829214838582784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e42a1363bfab70800000000000000
+      internalID: 8912539425811259499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40902b6b400ad040800000000000000
+      internalID: 4673047887270154316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca481b8a855b5a760800000000000000
+      internalID: 7468574949455791276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d3cff04e7cab5f0800000000000000
+      internalID: -740059406414365391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6f4f6dc13ffdeb0800000000000000
+      internalID: -4692764981505755436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0139722444bb0e440800000000000000
+      internalID: 4963172691204346640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fade40f275eac60800000000000000
+      internalID: 7831292661501636490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61939b27b6ed9abb0800000000000000
+      internalID: -4924160164485318378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c043614abf5a49640800000000000000
+      internalID: 5085872379416425484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e49d481d6763c210800000000000000
+      internalID: 1352038031398114537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d500b806ab3810800000000000000
+      internalID: 1746171836779319402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b322d38cba91f7a0800000000000000
+      internalID: -6345120265532202056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32342dac98ba3b320800000000000000
+      internalID: 2572588420460331811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86bd99d987fcf3e0800000000000000
+      internalID: -2018466361535252849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7d67bd95b9e5400800000000000000
+      internalID: 314859834198906806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6c35f7254f6b10800000000000000
+      internalID: 1976874799359356901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fd00204e6cfd9e0800000000000000
+      internalID: -1594337060477411464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca840fcebb5370e0800000000000000
+      internalID: -2273372511816873278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_106
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7a2287acf5e0b70800000000000000
+      internalID: 8867130039542654891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006424c57b7b3e50800000000000000
+      internalID: 6790156608923262976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881abeb94d1471390800000000000000
+      internalID: -7847731444265016952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7863f171d929e9090800000000000000
+      internalID: -8025816282532202873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abed52d354bcb25d0800000000000000
+      internalID: -3086149621393269062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a307f82a9687ed010800000000000000
+      internalID: 1215541344530821178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8e7082b8dc6d280800000000000000
+      internalID: -9018795206207084320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35f21b3bafd92e10800000000000000
+      internalID: 2173514221706474810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88756368e61761d50800000000000000
+      internalID: 6707673414526982024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9433cf47be96642a277646617b4cf9
+      internalID: -715101791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729266635a4bc84395c6478fc4f2c8a
+      internalID: -2142841071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3236fcb3b8d3e149a1008ecbbdb9efb
+      internalID: -345673501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fffb94b32edae842a9126e3afa5a0d4
+      internalID: 355094897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a280377caf486429b61f2c9b5ce348
+      internalID: -1617533580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4512c91e9c34fbe40bf0a95791dbd1a6
+      internalID: -1924589860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce42d56604c29cc4dbc746b7b7c04fe9
+      internalID: 2006013830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc060f498fc97f4987af0f2450d0e06
+      internalID: 281318045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da1efbfc477abc49934257562b4e789
+      internalID: -1298804718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a850bbb11626e0a46af3a42cf807215f
+      internalID: -1115319134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b45bfcb8155bf46892f6ed21e39a3a
+      internalID: 26737483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ffd184fd5717845a4cfe6223b67e06
+      internalID: -1923777304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbba30d4e3d4574da4cdbe62d5d5be1
+      internalID: -258954468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e03a8af2ceb2141819a4c073e84376
+      internalID: 1692251123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dda4ed15acf7742a5bb379bc834f50
+      internalID: -5249117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ed5338b6afa1e48b40785c530cb368
+      internalID: 1901366924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatsBlack16x16Tile 1_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7928336c38bfe4c8dce21071fb7118
+      internalID: 1670295245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 652320b97009e1548aa987ce7b4f9ebe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CatsBlack16x16Tile 1_0: 7406600015601232146
+      CatsBlack16x16Tile 1_1: -1578270453461784270
+      CatsBlack16x16Tile 1_10: -3538783876781813687
+      CatsBlack16x16Tile 1_100: 2572588420460331811
+      CatsBlack16x16Tile 1_101: -2018466361535252849
+      CatsBlack16x16Tile 1_102: 314859834198906806
+      CatsBlack16x16Tile 1_103: 1976874799359356901
+      CatsBlack16x16Tile 1_104: -1594337060477411464
+      CatsBlack16x16Tile 1_105: -2273372511816873278
+      CatsBlack16x16Tile 1_106: 8867130039542654891
+      CatsBlack16x16Tile 1_107: 6790156608923262976
+      CatsBlack16x16Tile 1_108: -7847731444265016952
+      CatsBlack16x16Tile 1_109: -8025816282532202873
+      CatsBlack16x16Tile 1_11: -8192825910700561675
+      CatsBlack16x16Tile 1_110: -3086149621393269062
+      CatsBlack16x16Tile 1_111: 1215541344530821178
+      CatsBlack16x16Tile 1_112: -9018795206207084320
+      CatsBlack16x16Tile 1_113: 2173514221706474810
+      CatsBlack16x16Tile 1_114: 6707673414526982024
+      CatsBlack16x16Tile 1_115: -715101791
+      CatsBlack16x16Tile 1_116: -2142841071
+      CatsBlack16x16Tile 1_117: -345673501
+      CatsBlack16x16Tile 1_118: 355094897
+      CatsBlack16x16Tile 1_119: -1617533580
+      CatsBlack16x16Tile 1_12: 3659937846469387010
+      CatsBlack16x16Tile 1_120: -1924589860
+      CatsBlack16x16Tile 1_121: 2006013830
+      CatsBlack16x16Tile 1_122: 281318045
+      CatsBlack16x16Tile 1_123: -1298804718
+      CatsBlack16x16Tile 1_124: -1115319134
+      CatsBlack16x16Tile 1_125: 26737483
+      CatsBlack16x16Tile 1_126: -1923777304
+      CatsBlack16x16Tile 1_127: -258954468
+      CatsBlack16x16Tile 1_128: 1692251123
+      CatsBlack16x16Tile 1_129: -5249117
+      CatsBlack16x16Tile 1_13: -537096723792640530
+      CatsBlack16x16Tile 1_130: 1901366924
+      CatsBlack16x16Tile 1_131: 1670295245
+      CatsBlack16x16Tile 1_14: 5440936181530338284
+      CatsBlack16x16Tile 1_15: -7977875116563405289
+      CatsBlack16x16Tile 1_16: -5776558548457105968
+      CatsBlack16x16Tile 1_17: -7364700384572822024
+      CatsBlack16x16Tile 1_18: 3443389797305610611
+      CatsBlack16x16Tile 1_19: -1997350097371831414
+      CatsBlack16x16Tile 1_2: 7087603272445148909
+      CatsBlack16x16Tile 1_20: -214752098417366724
+      CatsBlack16x16Tile 1_21: -4252660721525709532
+      CatsBlack16x16Tile 1_22: -1360850171800644299
+      CatsBlack16x16Tile 1_23: -8666763462558798962
+      CatsBlack16x16Tile 1_24: 6957369423509959583
+      CatsBlack16x16Tile 1_25: -7263195285909737126
+      CatsBlack16x16Tile 1_26: 982851100938952448
+      CatsBlack16x16Tile 1_27: -864788321462309848
+      CatsBlack16x16Tile 1_28: -8616684372828188106
+      CatsBlack16x16Tile 1_29: -3377529244121416198
+      CatsBlack16x16Tile 1_3: 3699052550875371999
+      CatsBlack16x16Tile 1_30: 1672996660927226936
+      CatsBlack16x16Tile 1_31: 6979182427182891988
+      CatsBlack16x16Tile 1_32: -1098965618624880289
+      CatsBlack16x16Tile 1_33: -4776655248676795048
+      CatsBlack16x16Tile 1_34: -6127132647387927780
+      CatsBlack16x16Tile 1_35: 3262190139716913121
+      CatsBlack16x16Tile 1_36: -1178046681346458166
+      CatsBlack16x16Tile 1_37: 934716809383560843
+      CatsBlack16x16Tile 1_38: 5392656529642392513
+      CatsBlack16x16Tile 1_39: 1536091484511801292
+      CatsBlack16x16Tile 1_4: 9055413164399452586
+      CatsBlack16x16Tile 1_40: 3223542746058386752
+      CatsBlack16x16Tile 1_41: 3444009285997503986
+      CatsBlack16x16Tile 1_42: -6756254924797371038
+      CatsBlack16x16Tile 1_43: 6905594982999262373
+      CatsBlack16x16Tile 1_44: 6858209980422284955
+      CatsBlack16x16Tile 1_45: -7279577216623271079
+      CatsBlack16x16Tile 1_46: 9207359220774445788
+      CatsBlack16x16Tile 1_47: -8649829817283582790
+      CatsBlack16x16Tile 1_48: -1220563153470922672
+      CatsBlack16x16Tile 1_49: 5360931826705562688
+      CatsBlack16x16Tile 1_5: 8027735464676433680
+      CatsBlack16x16Tile 1_50: -2085752353873462892
+      CatsBlack16x16Tile 1_51: -5248099242425368235
+      CatsBlack16x16Tile 1_52: 4744412893677348084
+      CatsBlack16x16Tile 1_53: 5809562800450466523
+      CatsBlack16x16Tile 1_54: 5002512332658685183
+      CatsBlack16x16Tile 1_55: -6591958906139317014
+      CatsBlack16x16Tile 1_56: 754373004260352985
+      CatsBlack16x16Tile 1_57: 2695555857043452404
+      CatsBlack16x16Tile 1_58: -7851424975120520184
+      CatsBlack16x16Tile 1_59: -6780780754033216920
+      CatsBlack16x16Tile 1_6: 5492190481839671577
+      CatsBlack16x16Tile 1_60: -3325899646924191945
+      CatsBlack16x16Tile 1_61: 5553002882417209585
+      CatsBlack16x16Tile 1_62: -3979028018280230787
+      CatsBlack16x16Tile 1_63: 6532545586777691638
+      CatsBlack16x16Tile 1_64: 5888816203962465509
+      CatsBlack16x16Tile 1_65: 5487195695103661770
+      CatsBlack16x16Tile 1_66: -3567215798880150578
+      CatsBlack16x16Tile 1_67: -1825960141820723309
+      CatsBlack16x16Tile 1_68: 5754574545084996842
+      CatsBlack16x16Tile 1_69: 8609725578211753196
+      CatsBlack16x16Tile 1_7: -8434530516752286615
+      CatsBlack16x16Tile 1_70: 2832066271482509886
+      CatsBlack16x16Tile 1_71: -3131836272669847980
+      CatsBlack16x16Tile 1_72: -5884193978884312084
+      CatsBlack16x16Tile 1_73: -9105513513374090457
+      CatsBlack16x16Tile 1_74: 5415628469336848242
+      CatsBlack16x16Tile 1_75: 3667526784279690620
+      CatsBlack16x16Tile 1_76: 1716972955343707582
+      CatsBlack16x16Tile 1_77: -562036977591470812
+      CatsBlack16x16Tile 1_78: 7292693534437347706
+      CatsBlack16x16Tile 1_79: -3780992736488759367
+      CatsBlack16x16Tile 1_8: -8916213113509509860
+      CatsBlack16x16Tile 1_80: 5747196003670151482
+      CatsBlack16x16Tile 1_81: 2650696539598393205
+      CatsBlack16x16Tile 1_82: -5794302324034992165
+      CatsBlack16x16Tile 1_83: -4921699010984112901
+      CatsBlack16x16Tile 1_84: 6142940189699242758
+      CatsBlack16x16Tile 1_85: -1047577452812557895
+      CatsBlack16x16Tile 1_86: -6129990766717919331
+      CatsBlack16x16Tile 1_87: -6969829214838582784
+      CatsBlack16x16Tile 1_88: 8912539425811259499
+      CatsBlack16x16Tile 1_89: 4673047887270154316
+      CatsBlack16x16Tile 1_9: 4746048621273845564
+      CatsBlack16x16Tile 1_90: 7468574949455791276
+      CatsBlack16x16Tile 1_91: -740059406414365391
+      CatsBlack16x16Tile 1_92: -4692764981505755436
+      CatsBlack16x16Tile 1_93: 4963172691204346640
+      CatsBlack16x16Tile 1_94: 7831292661501636490
+      CatsBlack16x16Tile 1_95: -4924160164485318378
+      CatsBlack16x16Tile 1_96: 5085872379416425484
+      CatsBlack16x16Tile 1_97: 1352038031398114537
+      CatsBlack16x16Tile 1_98: 1746171836779319402
+      CatsBlack16x16Tile 1_99: -6345120265532202056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
