@@ -1,48 +1,104 @@
 using UnityEngine;
-using UnityEngine.Audio;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using System.Collections.Generic;
 
-public class VolumeControl : MonoBehaviour
+public class AudioManager : MonoBehaviour
 {
-    public AudioMixer audioMixer;
-    public Slider maxSlider;
+    public static AudioManager Instance;
+
+    [Header("Background Music Source")]
+    public AudioSource backgroundSource;
+
+    [Header("Sliders (only in first scene)")]
+    public Slider masterSlider;
     public Slider sfxSlider;
-    public Slider backSlider;
+    public Slider backgroundSlider;
+
+    // Internal values that persist across scenes
+    private float masterVolume = 1f;
+    private float sfxVolume = 1f;
+    private float backgroundVolume = 1f;
+
+    private List<AudioSource> sfxSources = new List<AudioSource>();
+
     void Awake()
     {
-        DontDestroyOnLoad(gameObject);
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
+            SceneManager.sceneLoaded += OnSceneLoaded;
+
+            // Load saved values (from PlayerPrefs if available)
+            masterVolume = PlayerPrefs.GetFloat("MasterVolume", 1f);
+            sfxVolume = PlayerPrefs.GetFloat("SFXVolume", 1f);
+            backgroundVolume = PlayerPrefs.GetFloat("BackgroundVolume", 1f);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
-    private void Start()
+    void OnDestroy()
     {
-        // Load saved volume
-        float maxSavedVolume = PlayerPrefs.GetFloat("MasterVolume", 0.75f);
-        maxSlider.value = maxSavedVolume;
-        SetMaxVolume(maxSavedVolume);
-        float sfxSavedVolume = PlayerPrefs.GetFloat("SFXVolume", 0.75f);
-        maxSlider.value = sfxSavedVolume;
-        SetSFXVolme(sfxSavedVolume);
-        float backSavedVolume = PlayerPrefs.GetFloat("BackVolume", 0.75f);
-        maxSlider.value = backSavedVolume;
-        SetBackVolume(backSavedVolume);
+        SceneManager.sceneLoaded -= OnSceneLoaded;
     }
 
-    public void SetMaxVolume(float volume)
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Convert slider value (0–1) to decibels
-        audioMixer.SetFloat("MasterVolume", Mathf.Log10(volume) * 20);
-        PlayerPrefs.SetFloat("MasterVolume", volume);
+        FindSFXSources();
+
+        // Only in the first scene do we have sliders
+        if (masterSlider != null) masterSlider.value = masterVolume;
+        if (sfxSlider != null) sfxSlider.value = sfxVolume;
+        if (backgroundSlider != null) backgroundSlider.value = backgroundVolume;
+
+        UpdateVolumes();
     }
-    public void SetSFXVolme(float volume)
+
+    private void FindSFXSources()
     {
-        // Convert slider value (0–1) to decibels
-        audioMixer.SetFloat("SFXVolume", Mathf.Log10(volume) * 20);
-        PlayerPrefs.SetFloat("SFXVolume", volume);
+        sfxSources.Clear();
+
+        foreach (GameObject obj in GameObject.FindGameObjectsWithTag("Player"))
+        {
+            AudioSource src = obj.GetComponent<AudioSource>();
+            if (src != null) sfxSources.Add(src);
+        }
+
+        foreach (GameObject obj in GameObject.FindGameObjectsWithTag("Enemy"))
+        {
+            AudioSource src = obj.GetComponent<AudioSource>();
+            if (src != null) sfxSources.Add(src);
+        }
     }
-    public void SetBackVolume(float volume)
+
+    void Update()
     {
-        // Convert slider value (0–1) to decibels
-        audioMixer.SetFloat("BackVolume", Mathf.Log10(volume) * 20);
-        PlayerPrefs.SetFloat("BackVolume", volume);
+        // If sliders exist (first scene), update values from them
+        if (masterSlider != null) masterVolume = masterSlider.value;
+        if (sfxSlider != null) sfxVolume = sfxSlider.value;
+        if (backgroundSlider != null) backgroundVolume = backgroundSlider.value;
+
+        UpdateVolumes();
+    }
+
+    private void UpdateVolumes()
+    {
+        if (backgroundSource != null)
+            backgroundSource.volume = backgroundVolume * masterVolume;
+
+        foreach (AudioSource src in sfxSources)
+        {
+            src.volume = sfxVolume * masterVolume;
+        }
+
+        // Save values so they persist across scenes
+        PlayerPrefs.SetFloat("MasterVolume", masterVolume);
+        PlayerPrefs.SetFloat("SFXVolume", sfxVolume);
+        PlayerPrefs.SetFloat("BackgroundVolume", backgroundVolume);
+        PlayerPrefs.Save();
     }
 }

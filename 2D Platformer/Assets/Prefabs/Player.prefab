@@ -263,6 +263,7 @@ MonoBehaviour:
   destroyTime: 0.2
   worldSpawn: {fileID: 0}
   dead: 0
+  dmgF: {fileID: 0}
 --- !u!114 &5432007016995586448
 MonoBehaviour:
   m_ObjectHideFlags: 0
