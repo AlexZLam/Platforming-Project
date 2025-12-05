@@ -13,6 +13,10 @@ public class MouseMove : MonoBehaviour
     private float triggerCooldown = 0.5f;
     private bool activeMouse = true;
     private int mouseType;
+    private bool isAlive = true;
+
+    public AudioSource audioS;
+    public AudioClip death;
 
     public void Initialize(Transform a, Transform b, int type)
     {
@@ -30,7 +34,7 @@ public class MouseMove : MonoBehaviour
     }
 
     void Update()
-    {
+    { 
         if (!activeMouse) return;
 
         transform.position = Vector3.MoveTowards(transform.position, target, speed * Time.deltaTime);
@@ -56,6 +60,7 @@ public class MouseMove : MonoBehaviour
         if (collision.CompareTag("Sword"))
         {
             StartCoroutine(Die());
+            audioS.PlayOneShot(death);
         }
     }
 

@@ -9,6 +9,10 @@ public class nxtLevel : MonoBehaviour
     {
         if(collision.CompareTag("Player"))
         {
+            if(currentSceneIndex == 4)
+            {
+                SceneManager.LoadScene(0);
+            }
             currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
             SceneManager.LoadScene(currentSceneIndex + 1);
         }

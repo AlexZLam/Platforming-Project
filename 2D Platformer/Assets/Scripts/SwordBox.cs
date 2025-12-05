@@ -6,6 +6,9 @@ public class SwordBox : MonoBehaviour
     public float bounceForce = 5f;
     public Animator animator;
 
+    public AudioSource audioS;
+    public AudioClip hit;
+
     private void Start()
     {
         animator.Play("Slash");
@@ -16,6 +19,7 @@ public class SwordBox : MonoBehaviour
         if (collision.CompareTag("Enemy"))
         {
             Debug.Log("Hit enemy!");
+            audioS.PlayOneShot(hit);
 
             // Check if the player was slashing downward
             if (player.GetAttackDirection() == Vector3.down)

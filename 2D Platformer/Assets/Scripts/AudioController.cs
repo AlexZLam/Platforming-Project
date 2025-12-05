@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections.Generic;
+using System.Collections;
 
 public class AudioManager : MonoBehaviour
 {
@@ -49,14 +50,23 @@ public class AudioManager : MonoBehaviour
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         FindSFXSources();
+        StartCoroutine(DelayedSFXScan(2f));
 
-        // Only in the first scene do we have sliders
         if (masterSlider != null) masterSlider.value = masterVolume;
         if (sfxSlider != null) sfxSlider.value = sfxVolume;
         if (backgroundSlider != null) backgroundSlider.value = backgroundVolume;
 
         UpdateVolumes();
     }
+
+    private IEnumerator DelayedSFXScan(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        FindSFXSources();
+    }
+
+
+
 
     private void FindSFXSources()
     {
@@ -81,7 +91,7 @@ public class AudioManager : MonoBehaviour
         if (masterSlider != null) masterVolume = masterSlider.value;
         if (sfxSlider != null) sfxVolume = sfxSlider.value;
         if (backgroundSlider != null) backgroundVolume = backgroundSlider.value;
-
+        
         UpdateVolumes();
     }
 

@@ -25,6 +25,11 @@ public class PlayerMovement : MonoBehaviour
     private float dashTimeLeft;
     public bool canHurt = true;
 
+    [Header("Audio")]
+    public AudioSource audioS;
+    public AudioClip walking;
+    public float stepInterval = 0.35f; // time between footsteps
+    private float stepTimer = 0f;
 
 
     void Start()
@@ -38,6 +43,23 @@ public class PlayerMovement : MonoBehaviour
         moveInput = Input.GetAxisRaw("Horizontal");
 
         animator.SetFloat("Speed", Mathf.Abs(moveInput));
+
+        bool isMoving = Mathf.Abs(moveInput) > 0.1f;
+
+        if (isGrounded && isMoving && !isDashing)
+        {
+            stepTimer -= Time.deltaTime;
+
+            if (stepTimer <= 0f)
+            {
+                audioS.PlayOneShot(walking);
+                stepTimer = stepInterval;
+            }
+        }
+        else
+        {
+            stepTimer = 0f;
+        }
 
         // Flip sprite
         if (moveInput < 0)
@@ -58,21 +80,18 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.LeftShift) && !isDashing)
         {
             StartDash();
-            
             animator.SetBool("isDashing", isDashing);
         }
 
         if (isDashing)
         {
             dashTimeLeft -= Time.deltaTime;
-            
             canHurt = false;
 
             if (dashTimeLeft <= 0)
             {
                 isDashing = false;
                 canHurt = true;
-                
                 animator.SetBool("isDashing", isDashing);
             }
         }

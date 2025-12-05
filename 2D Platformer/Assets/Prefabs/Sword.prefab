@@ -151,6 +151,8 @@ MonoBehaviour:
   player: {fileID: 0}
   bounceForce: 15
   animator: {fileID: 1876982419636557285}
+  audioS: {fileID: 4850779693631127108, guid: 9aa0278b0ca7c1b49973d7cd9aa09524, type: 3}
+  hit: {fileID: 8300000, guid: 6a8a6d82cca820e4caeb5884cfc891c8, type: 3}
 --- !u!95 &1876982419636557285
 Animator:
   serializedVersion: 7

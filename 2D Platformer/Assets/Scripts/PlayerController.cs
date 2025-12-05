@@ -9,6 +9,11 @@ public class PlayerController : MonoBehaviour
     public Animator animator;
     public float destroyTime = 0.2f;
 
+    public AudioSource audioS;
+    public AudioClip death;
+    public AudioClip whiff;
+
+
     [SerializeField] private GameObject worldSpawn;
     public bool dead = false;
 
@@ -21,12 +26,13 @@ public class PlayerController : MonoBehaviour
         else if (Input.GetMouseButton(0) || Input.GetKeyDown("k"))
         {
             Vector3 direction = GetAttackDirection();
-            Slash(direction);
+            Slash(direction); audioS.PlayOneShot(whiff);
             timer = 0;
         }
         if(Input.GetKeyDown(KeyCode.R))
         {
             KillPlayer();
+            audioS.PlayOneShot(death);
         }
     }
 
@@ -35,6 +41,7 @@ public class PlayerController : MonoBehaviour
         if (!dead)
         {
             dead = true;
+            audioS.PlayOneShot(death);
             dmgF.TakeDamage();
             StartCoroutine(RespawnAfterDelay(0.35f));
         }
